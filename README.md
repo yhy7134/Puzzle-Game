@@ -27,4 +27,4 @@ Rules
 • Light bulbs may be placed in any of the white squares, the number in the square shows how many light bulbs are next to it, vertically and horizontally. Light bulbs may be placed on any white square.
 • Each light bulb illuminates from bulb to black square or outer frame in its row and column (in all four directions.)
 • Every white square must be illuminated.
-• A light bulb can not illuminate another light bulb.ㅎ
+• A light bulb can not illuminate another light bulb.
